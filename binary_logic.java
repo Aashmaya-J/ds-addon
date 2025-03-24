@@ -55,7 +55,9 @@ public class binary_logic {
 
 			}
 
-			for(int i=0;i<size;i++) {
+			for(int i=0;i<size;i++)  {
+				System.out.print(arr[i]+" ");  
+				}
 
 				System.out.println("Enter your value to find?");
 
@@ -73,7 +75,7 @@ public class binary_logic {
 
 		}
 
-	}			      
+			      
 	
 	
 	
